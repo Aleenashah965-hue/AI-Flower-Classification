@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-3.14+-blue?style=for-the-badge&logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Web_App-red?style=for-the-badge&logo=streamlit)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Supervised_Learning-orange?style=for-the-badge&logo=scikitlearn)
 ![AI Internship](https://img.shields.io/badge/DecodeLabs-AI_Internship-success?style=for-the-badge)
@@ -133,7 +133,10 @@ AI-Flower-Classification
 ```
 
 ---
-
+🌐 Live Demo
+https://aleenashah965-hue-ai-flower-classification-app-znf3zg.streamlit.app/
+---
+---
 # 🚀 Installation
 
 ## Clone the Repository
